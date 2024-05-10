@@ -1,5 +1,11 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World! git! git! git!");
+        Scanner sc = new Scanner(System.in);
+
+        String input = sc.nextLine();
+
+        System.out.println(input);
     }
 }
