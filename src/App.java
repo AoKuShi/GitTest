@@ -6,6 +6,6 @@ public class App {
 
         String input = sc.nextLine();
 
-        System.out.println(input + 1 + 1);
+        System.out.println(input);
     }
 }
