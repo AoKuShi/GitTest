@@ -24,5 +24,4 @@ public class App {
         System.out.println("축하합니다! 정답을 맞추셨습니다.");
         System.out.println("시도한 횟수: " + tries);
     }
-
 }
