@@ -10,7 +10,7 @@ public class App {
         int tries = 0;
 
         do {
-            System.out.println("Q. 정답을 추측하여 보시오: ");
+            System.out.println("Q. 1부터 100까지의 정답을 추측하여 보시오: ");
             guess = sc.nextInt();
             tries++;
 
